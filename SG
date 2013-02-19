@@ -1,1 +1,0 @@
-val test = SG(tabulate(9, fn _ => (tabulate(9, fn _ => (NONE, [])))));
